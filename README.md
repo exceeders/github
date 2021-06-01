@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png" align="center">
 
-# Version control = Git
+# 1 Version control = Git
 <details><summary> </summary>
 <p>
   
@@ -31,7 +31,7 @@
 </details>
 
 
-# 소프트웨어 개발 + 협업 
+# 2 소프트웨어 개발 + 협업 
 <details><summary> </summary>
 <p>
   
@@ -44,7 +44,7 @@
 </details>
 
 
-# Git = GitHub ?
+# 3 Git = GitHub ?
 <details><summary> </summary>
 <p> 
   
@@ -56,7 +56,7 @@
 </p>
 </details>
 
-# 오픈 소스 = GitHub.com
+# 4 오픈 소스 = GitHub.com
 <details><summary> </summary>
 <p> 
   
@@ -69,7 +69,7 @@
 </p>
 </details>
 
-# 오픈소스 🤝 이너소스(Innersource) 
+# 5 오픈소스 🤝 이너소스(Innersource) 
 
 <details><summary> </summary>
 <p>  
@@ -106,7 +106,7 @@
 </p>
 </details>
 
-# GitHub.com = GitHub Enterprise
+# 6 GitHub.com = GitHub Enterprise
 <details><summary> </summary>
 <p> 
   
@@ -151,7 +151,7 @@
 </p>
 </details>
 
-# GitHub Enterprise :octocat:
+# 7 GitHub Enterprise :octocat:
 <details><summary> </summary>
 <p> 
   
@@ -186,7 +186,7 @@
 </p>
 </details>
 
-# Trial
+# 8 Trial
 <details><summary> </summary>
 <p> 
   
