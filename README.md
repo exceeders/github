@@ -73,6 +73,9 @@
 
 ![image](https://user-images.githubusercontent.com/40287191/120301317-b1328e80-c307-11eb-9dec-d602b904070d.png) ![image](https://user-images.githubusercontent.com/40287191/120301403-c7d8e580-c307-11eb-81b2-c1f1a94efbb5.png)
 
+  ### GitHub 워크플로우 : Pull Request를 통한 개발자들간의 피어리뷰와 협업
+
+ ![image](https://user-images.githubusercontent.com/40287191/120320262-f1e8d280-c31c-11eb-9c0f-4f0ca8c6d915.png)
 
 </p>
 </details>
@@ -86,7 +89,7 @@
   ![image](https://user-images.githubusercontent.com/40287191/120304886-25226600-c30b-11eb-9619-2586423dd030.png)
    
   
-  ### 오픈소스는 엄청난 효율성을 갖춘 협력 체제를 가지고 있습니다. 
+  ### 오픈소스는 엄청난 효율성을 갖춘 협력 체를 가지고 있습니다. 
    - 공통된 백로그
    - 자유로운 의사소통과 협업
    - 소통과 코드의 모든 역사가 투명하게 보존
@@ -106,10 +109,6 @@
    - [Issues 및 Pull Request](https://github.com/microsoft/vcpkg/issues/18170)
    - [Discussions](https://github.com/microsoft/vcpkg/discussions)
    - [Project](https://github.com/orgs/microsoft/projects)
-  
-  ### GitHub 워크플로우 : Pull Request를 통한 개발자들간의 피어리뷰와 협업
-
-  ![image](https://user-images.githubusercontent.com/40287191/120320262-f1e8d280-c31c-11eb-9c0f-4f0ca8c6d915.png)
   
 </p>
 </details>
