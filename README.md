@@ -161,13 +161,13 @@
   ![image](https://user-images.githubusercontent.com/40287191/120342476-cb359680-c332-11eb-86fa-5457ac2792d0.png)
   
   ## GitHub Enterprise Server로 유용한 정보를 다운로드 하여 편리하게 사용할 수 있습니다. : GitHub Connect
-    - 의존성 보안 알람 
-    - GitHub.com에 존재하는 GitHub Actions를 편리하게 사용
-    - Unified Search : 온프렘에서 한번의 Search로 온프렘과 GitHub.com 모두의 결과를 동시에
-    - Unified Contribution : 개발자 프로필에 온프렘의 기여 횟수를 표시
+   - 의존성 보안 알람 
+   - GitHub.com에 존재하는 GitHub Actions를 편리하게 사용
+   - Unified Search : 온프렘에서 한번의 Search로 온프렘과 GitHub.com 모두의 결과를 동시에
+   - Unified Contribution : 개발자 프로필에 온프렘의 기여 횟수를 표시
   
   ## GitHub Mobile App
-    ![image](https://user-images.githubusercontent.com/40287191/120343161-71819c00-c333-11eb-8d8d-246d1ce6a64c.png)
+ ![image](https://user-images.githubusercontent.com/40287191/120343161-71819c00-c333-11eb-8d8d-246d1ce6a64c.png)
 
 </p>
 </details>
