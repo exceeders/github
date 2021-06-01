@@ -1,5 +1,6 @@
 # Github은 전세계 개발자들의 Home 입니다. 
-![image](https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png)
+
+<img src="https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png" align="center">
 
 # Version control = Git
 <details><summary> </summary>
@@ -167,11 +168,21 @@
    - Unified Contribution : 개발자 프로필에 온프렘의 기여 횟수를 표시
   
   ## GitHub Mobile App
- ![image](https://user-images.githubusercontent.com/40287191/120345536-852e0200-c335-11eb-84e7-ca365c153846.png)
+  <img src="https://user-images.githubusercontent.com/40287191/120345536-852e0200-c335-11eb-84e7-ca365c153846.png" width="200" height="350">
+   
+ - 모바일에 최적화된 GitHub의 모든 기능 편리하게 사용; Issue, Pull request.
+ - GHES 지원
+ - 편리한 검색과 결과 보기 : Users, Repos, Orgs, Issues, Pull Requests.
+ - 언제 어디에 있든 Issues와 Pull Requests상에서 편리한 협업 : Comment, react, and merge code.
+ - “Favorite Repos”, “Recently Viewed” sections 
+  
 
+  
   ## GitHub Codespace
  ![image](https://user-images.githubusercontent.com/40287191/120346118-08e7ee80-c336-11eb-94d0-bc821c8baf22.png)
+  
 
+ 
 </p>
 </details>
 
