@@ -1,4 +1,4 @@
-# Github
+# Github은 전세계 개발자들의 Home 입니다. 
 ![image](https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png)
 
 # Version control = Git
