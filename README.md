@@ -184,7 +184,10 @@
     
   ## GitHub Enterprise Server
    - 45일, unlimited seat 🧑‍🤝‍🧑 
-   - Admin
+   - Admin 하실 분이 [Trial request](https://enterprise.github.com/trial) 
+   - 이메일로 라이센스, GHES 설치하고 라이센스 적용
+  
+  
 </p>
 </details>
 
