@@ -150,8 +150,42 @@
 </p>
 </details>
 
-▶️
-
+# GitHub Enterprise :octocat:
+<details><summary> </summary>
+<p> 
   
+  ## GitHub Enterprise는 SaaS형 서비스 (GitHub Enterprise Cloud ☁️)와 온프렘 설치형 GitHub Enterprise Server 두 가지
+  ![image](https://user-images.githubusercontent.com/40287191/120341359-c7554480-c331-11eb-8df5-4ca7f81551e9.png)
+  
+  ## GitHub Enterprise는 1➕1 : 👆 두가지 모두를 동시에 제공합니다.
+  ![image](https://user-images.githubusercontent.com/40287191/120342476-cb359680-c332-11eb-86fa-5457ac2792d0.png)
+  
+  ## GitHub Enterprise Server로 유용한 정보를 다운로드 하여 편리하게 사용할 수 있습니다. : GitHub Connect
+    - 의존성 보안 알람 
+    - GitHub.com에 존재하는 GitHub Actions를 편리하게 사용
+    - Unified Search : 온프렘에서 한번의 Search로 온프렘과 GitHub.com 모두의 결과를 동시에
+    - Unified Contribution : 개발자 프로필에 온프렘의 기여 횟수를 표시
+  
+  ## GitHub Mobile App
+    ![image](https://user-images.githubusercontent.com/40287191/120343161-71819c00-c333-11eb-8d8d-246d1ce6a64c.png)
+
+</p>
+</details>
+
+# Trial
+<details><summary> </summary>
+<p> 
+  
+  ## 두가지 방법 : GitHub Enterprise Cloud, 또는 GitHub Enterprise Server
+  
+  ## GitHub Enterprise Cloud
+   - 14일, 50seat 🧑‍🤝‍🧑 (더 많은 seat필요시 Contact GitHub Sales 📱)
+   - GitHub.com에 계정 (없다면 신규 생성), [Trial request](https://github.com/account/organizations/new?plan=business_plus&ref_cta=Start+a+free+trial&ref_loc=hero&ref_page=%2Fenterprise)
+    
+  ## GitHub Enterprise Server
+   - 45일, unlimited seat 🧑‍🤝‍🧑 
+   - Admin
+</p>
+</details>
 
 
