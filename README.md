@@ -1,15 +1,6 @@
 # Github
 ![image](https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png)
 
-
-# 소프트웨어 개발 + 협업
-<details><summary> </summary>
-<p>
-  
-  ![image](https://user-images.githubusercontent.com/40287191/120286337-18951200-c2f9-11eb-8535-16681aafe678.png)
-</p>
-</details>
-
 # Version control = Git
 <details><summary> </summary>
 <p>
@@ -25,10 +16,23 @@
   </p>
   </details> 
       
-      
-      
+         
 </p>
 </details>
+
+
+# 소프트웨어 개발 + 협업
+<details><summary> </summary>
+<p>
+  
+  ## 소프트웨어의 개발은 가장 큰 팀스포츠 이자, 협업의 산물 입니다. 
+  ![image](https://user-images.githubusercontent.com/40287191/120286337-18951200-c2f9-11eb-8535-16681aafe678.png)
+  
+  ## 버젼 관리만으로 
+  
+</p>
+</details>
+
 
 # Git = GitHub ?
 <details><summary> </summary>
@@ -63,12 +67,19 @@
   
 ![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
 
-<details><summary> </summary>
-<p>
+</p>
+</details>
 
-# Innersource 협업 모델 적용하기
+# 오픈소스 🤝 이너소스(Innersource) 
+
+<details><summary> </summary>
+<p>  
+  
+  ## DevOps 만으로는 충분치 않습니다. 
   
   
+</p>
+</details>
 
   
 
