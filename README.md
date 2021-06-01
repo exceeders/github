@@ -28,7 +28,7 @@
   ## 소프트웨어의 개발은 가장 큰 팀스포츠 이자, 협업의 산물 입니다. 
   ![image](https://user-images.githubusercontent.com/40287191/120286337-18951200-c2f9-11eb-8535-16681aafe678.png)
   
-  ## 버젼 관리만으로 
+  ## 버젼 관리는 자연스러운 협업의 출발점 입니다. 🧑‍🤝‍🧑 
   
 </p>
 </details>
@@ -63,7 +63,7 @@
 <details><summary> </summary>
 <p> 
   
-  ## GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와 엔터프라이즈 개발의 Home 입니다. 
+  ## GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와, 엔터프라이즈 개발자들의 Home 입니다. 
   
 ![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
 
@@ -75,9 +75,24 @@
 <details><summary> </summary>
 <p>  
   
-  ## DevOps 만으로는 충분치 않습니다. 
+  ## DevOps 만으로는 충분치 않습니다. 진정 팀간의 벽을 허무는 것이 필요합니다. 
+  ![image](https://user-images.githubusercontent.com/40287191/120304886-25226600-c30b-11eb-9619-2586423dd030.png)
+   
   
+  ## 오픈소스는 엄청난 효율성을 갖춘 협력 체제를 가지고 있습니다. 
+   - 공통된 백로그
+   - 자유로운 의사소통과 협업
+   - 소통과 코드의 모든 역사가 투명하게 보존
+   - 불필요한 재작업 방지
+   - 기술 문서 
+  ## 엔터프라이즈 내에서 오픈소스와 같은 협력을!
+  ![image](https://user-images.githubusercontent.com/40287191/120304063-65351900-c30a-11eb-8aa7-fb5ae03be4de.png)
   
+   - [Why organizations should commit to innersource in 2020](https://github.blog/2020-03-11-why-organizations-should-commit-to-innersource-in-2020/)
+   - [Innersource Commons](https://innersourcecommons.org/)
+   - [이너소스 패턴](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+   - [Paypal CaseStudy](http://paypal.github.io/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf)
+ 
 </p>
 </details>
 
