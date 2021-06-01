@@ -92,8 +92,8 @@
    - [Paypal CaseStudy](http://paypal.github.io/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf)
  
   ## 오픈소스 기업 및 프로젝트 
-   - 마이크로 소프트 https://github.com/microsoft
-   - 마이크로 소프트 Vcpkg 프로젝트 : https://github.com/microsoft/vcpkg
+   - 예)마이크로 소프트 https://github.com/microsoft
+   - 예)마이크로 소프트 Vcpkg 프로젝트 : https://github.com/microsoft/vcpkg
    - [Issues 및 Pull Request](https://github.com/microsoft/vcpkg/issues/18170)
    - [Discussions](https://github.com/microsoft/vcpkg/discussions)
    - [Project](https://github.com/orgs/microsoft/projects)
@@ -117,8 +117,10 @@
   
   ## GitHub.com의 ☝️ 모든 기능들이 그대로 엔터프라이즈에 적용됩니다. 
    - 📂 코드 저장소 
+   - 🔔[Notifications](https://github.com/notifications)
    - 👀 Issues 및 Pull Request
    - 📊 [Project](https://github.com/son7211/feettee/projects/1)
+   - 🚧 [브랜치 보호](https://github.com/johnjohncom/testinternaljohn/settings/branches)
    - 🚀 [내제된 CI/CD](https://github.com/microsoft/vscode/actions)
      - [example1](https://github.com/son7211/ttaacklee/blob/master/.github/workflows/dockerimage.yml)
      - [example2](https://github.com/exceeders/action-02)
@@ -129,8 +131,20 @@
    - 📔 문서화 기능 : GitHub Pages, Wiki
      - Twitter OSS https://twitter.github.io/
      - NETFLIX OSS https://netflix.github.io/
+   - 기타 다양한 통계 확인, Insights
+ 
+  ## 사용자 관리, 보안 🛡️, 연동
+   - 사용자 관리/인증 : LDAP, SAML, CAS, 시스템 자체 등록 🔑
+   - 다양한 사용자 보안 : 2FA의무화, PAT, SSH키 등록 및 관리, Verified Domain, IP allow list,,
+   - 다양한 사용자 권한 설정 : 저장소 생성권한, forking권한, Invite권한, 기본 저장소 접근 권한
+   - Audit Log, Log 포워딩, Syslog
+   - 다양한 API 연동 : Webhook, GitHub App
+   - 다양한 툴들과의 연동 방법 제공
   
-  
+  ## 온프렘 설치형의 시스템 관리, 성능, 확장성
+   - 1개 VM 📍
+   - Any Cloud Infra : Azure, AWS, GCP// VMware, KVM, Xen
+   - 1개 VM에 ~수만의 사용자 💪
   
   
 </p>
