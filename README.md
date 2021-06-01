@@ -6,7 +6,7 @@
 <details><summary> </summary>
 <p>
   
-  ## Git의 사용은 현재의 DevOps 환경과 잘 맞아, 대세가 되었습니다. 
+  ## Git이 대세 ❓: 🙆‍♂️ 💯
 ![image](https://user-images.githubusercontent.com/40287191/120289216-05d00c80-c2fc-11eb-8571-909610e4d93e.png) [link](https://www.openhub.net/repositories/compare)
 
    - 빠르고 간편
@@ -17,7 +17,7 @@
    - 브랜치 모델
    ![image](https://user-images.githubusercontent.com/40287191/120320139-cbc33280-c31c-11eb-8ad7-6298fb2129fa.png)
 
-  ### Git의 탄생 
+  ### Git의 탄생 👶
   <details><summary> </summary>
   <p>
   
@@ -31,7 +31,7 @@
 </details>
 
 
-# 소프트웨어 개발 + 협업
+# 소프트웨어 개발 + 협업 
 <details><summary> </summary>
 <p>
   
