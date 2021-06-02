@@ -56,14 +56,9 @@
   
   ### - GitHub은 Git 기반의 개발 협업 플랫폼 입니다. 
 ![image](https://user-images.githubusercontent.com/40287191/120290596-74fa3080-c2fd-11eb-8a59-a58a275ba164.png)
-  
-  ### - GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와, 엔터프라이즈 개발자들의 Home 입니다. 
-  
-![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
-  ### Fortune 50기업의 72%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
-![image](https://user-images.githubusercontent.com/40287191/120290998-d4584080-c2fd-11eb-9d8e-1b7a693654ed.png)
 
-</p>
+
+  </p>
 </details>
 
 # 4 오픈 소스 = GitHub.com
@@ -118,7 +113,7 @@
 # 6 GitHub.com = GitHub Enterprise
 <details><summary> </summary>
 <p> 
-  
+
   ### - 글로벌 GitHub.com의 서비스 플랫폼의 안정성, 확장성, 성능이 그대로 엔터프라이즈에 적용됩니다. 
   
   ### - GitHub.com의 ☝️ 모든 기능들이 그대로 엔터프라이즈에 적용됩니다. 
@@ -159,6 +154,12 @@
 # 7 GitHub Enterprise :octocat:
 <details><summary> </summary>
 <p> 
+  
+  ### - GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와, 엔터프라이즈 개발자들의 Home 입니다. 
+  ![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
+ 
+  ### Fortune 50기업의 72%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
+  ![image](https://user-images.githubusercontent.com/40287191/120290998-d4584080-c2fd-11eb-9d8e-1b7a693654ed.png)
   
   ### - GitHub Enterprise는 SaaS형 서비스 (GitHub Enterprise Cloud ☁️)와 온프렘 설치형 GitHub Enterprise Server 두 가지
   ![image](https://user-images.githubusercontent.com/40287191/120341359-c7554480-c331-11eb-8df5-4ca7f81551e9.png)
