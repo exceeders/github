@@ -1,6 +1,6 @@
 # Github은 전세계 개발자들의 Home 입니다. 
 
-<img src="https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png" align="center">
+<img src="https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png" />
 
 # 1 Version control = Git
 <details><summary> </summary>
@@ -8,7 +8,7 @@
   
   ## Version control은 필요합니다. 
   
-  ![image](https://user-images.githubusercontent.com/40287191/120352922-3afc4f00-c33c-11eb-992b-38b1fe71f274.png)
+  ![image](https://user-images.githubusercontent.com/40287191/120352922-3afc4f00-c33c-11eb-992b-38b1fe71f274.png) 
 
   ## Git이 대세 ❓: 🙆‍♂️ 💯
 ![image](https://user-images.githubusercontent.com/40287191/120289216-05d00c80-c2fc-11eb-8571-909610e4d93e.png) [link](https://www.openhub.net/repositories/compare)
