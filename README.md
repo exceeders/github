@@ -122,7 +122,7 @@
    - 👀 Issues 및 Pull Request
    - 📊 [Project](https://github.com/son7211/feettee/projects/1)
    - 🚧 [브랜치 보호](https://github.com/johnjohncom/testinternaljohn/settings/branches)
-   - 🚀 [내제된 CI/CD](https://github.com/microsoft/vscode/actions)
+   - 🚀 GitHub Actions: [내제된 CI/CD](https://github.com/microsoft/vscode/actions)
      - [example1](https://github.com/son7211/ttaacklee/blob/master/.github/workflows/dockerimage.yml)
      - [example2](https://github.com/exceeders/action-02)
      - [example3](https://github.com/exceeders/awesome-actions)
