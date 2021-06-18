@@ -2,6 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/40287191/120283657-60ff0080-c2f6-11eb-967c-f2a046287607.png" />
 
+<br>
+<br>
+
 # 1 Version control = Git
 <details><summary> </summary>
 <p>
@@ -36,6 +39,8 @@
 </p>
 </details>
 
+<br>
+<br>
 
 # 2 소프트웨어 개발 + 협업 
 <details><summary> </summary>
@@ -49,6 +54,8 @@
 </p>
 </details>
 
+<br>
+<br>
 
 # 3 Git = GitHub ?
 <details><summary> </summary>
@@ -60,6 +67,9 @@
 
   </p>
 </details>
+
+<br>
+<br>
 
 # 4 오픈 소스 = GitHub.com
 <details><summary> </summary>
@@ -76,6 +86,8 @@
 
 </p>
 </details>
+<br>
+<br>
 
 # 5 오픈소스 🤝 이너소스(Innersource) 
 
@@ -109,6 +121,8 @@
   
 </p>
 </details>
+<br>
+<br>
 
 # 6 GitHub.com = GitHub Enterprise
 <details><summary> </summary>
@@ -150,6 +164,8 @@
   
 </p>
 </details>
+<br>
+<br>
 
 # 7 GitHub Enterprise :octocat:
 <details><summary> </summary>
@@ -157,21 +173,27 @@
   
   ### - GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와, 엔터프라이즈 개발자들의 Home 입니다. 
   ![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
- 
+ <br>
+  
   ### Fortune 50기업의 72%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
   ![image](https://user-images.githubusercontent.com/40287191/120290998-d4584080-c2fd-11eb-9d8e-1b7a693654ed.png)
+  <br>
   
   ### - GitHub Enterprise는 SaaS형 서비스 (GitHub Enterprise Cloud ☁️)와 온프렘 설치형 GitHub Enterprise Server 두 가지
-  ![image](https://user-images.githubusercontent.com/40287191/120341359-c7554480-c331-11eb-8df5-4ca7f81551e9.png)
+  ![image](https://user-images.githubusercontent.com/40287191/122533534-a47a9e00-d05c-11eb-916b-01240a371e52.png)
+
+  <br>
   
   ### - GitHub Enterprise는 1➕1 : 👆 두가지 모두를 동시에 제공합니다.
   ![image](https://user-images.githubusercontent.com/40287191/120342476-cb359680-c332-11eb-86fa-5457ac2792d0.png)
   
+  <br>
   ### - GitHub Enterprise Server로 유용한 정보를 다운로드 하여 편리하게 사용할 수 있습니다. : GitHub Connect
    - 의존성 보안 알람 
    - GitHub.com에 존재하는 GitHub Actions를 편리하게 사용
    - Unified Search : 온프렘에서 한번의 Search로 온프렘과 GitHub.com 모두의 결과를 동시에
    - Unified Contribution : 개발자 프로필에 온프렘의 기여 횟수를 표시
+  <br>
   
   ### - GitHub Mobile App
   <img src="https://user-images.githubusercontent.com/40287191/120345536-852e0200-c335-11eb-84e7-ca365c153846.png" width="200" height="350">
@@ -182,7 +204,7 @@
  - 언제 어디에 있든 Issues와 Pull Requests상에서 편리한 협업 : Comment, react, and merge code.
  - “Favorite Repos”, “Recently Viewed” sections 
   
-
+<br>
   
   ### - GitHub Codespace
  ![image](https://user-images.githubusercontent.com/40287191/120346118-08e7ee80-c336-11eb-94d0-bc821c8baf22.png)
@@ -191,6 +213,8 @@
  
 </p>
 </details>
+<br>
+<br>
 
 # 8 Trial
 <details><summary> </summary>
