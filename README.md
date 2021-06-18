@@ -188,6 +188,7 @@
   ![image](https://user-images.githubusercontent.com/40287191/120342476-cb359680-c332-11eb-86fa-5457ac2792d0.png)
   
   <br>
+  
   ### - GitHub Enterprise Server로 유용한 정보를 다운로드 하여 편리하게 사용할 수 있습니다. : GitHub Connect
    - 의존성 보안 알람 
    - GitHub.com에 존재하는 GitHub Actions를 편리하게 사용
