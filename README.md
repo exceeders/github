@@ -172,7 +172,7 @@
 <p> 
   
   ### - GitHub.com과 GitHub Enterprise는 전세계 개발자들의 오픈소스와, 엔터프라이즈 개발자들의 Home 입니다. 
-  ![image](https://user-images.githubusercontent.com/40287191/120287643-678f7700-c2fa-11eb-9b39-9c30a9fa7e87.png)
+  ![image](https://user-images.githubusercontent.com/40287191/146722382-53d8b8ff-5c33-4992-86e3-a43cffb57c7e.png)
  <br>
   
   ### Fortune 50기업의 72%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
