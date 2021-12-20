@@ -175,8 +175,8 @@
   ![image](https://user-images.githubusercontent.com/40287191/146722382-53d8b8ff-5c33-4992-86e3-a43cffb57c7e.png)
  <br>
   
-  ### Fortune 50기업의 72%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
-  ![image](https://user-images.githubusercontent.com/40287191/120290998-d4584080-c2fd-11eb-9d8e-1b7a693654ed.png)
+  ### Fortune 100기업의 84%가 GitHub을 사용합니다. (GitHub [Octoverse report](https://octoverse.github.com/))
+  ![image](https://user-images.githubusercontent.com/40287191/146722501-4a54c868-c5c4-4394-a119-e021ed5f2fe6.png)
   <br>
   
   ### - GitHub Enterprise는 SaaS형 서비스 (GitHub Enterprise Cloud ☁️)와 온프렘 설치형 GitHub Enterprise Server 두 가지
